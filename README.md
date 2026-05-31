@@ -11,7 +11,7 @@ LLMs are increasingly used in localization workflows, but their performance on c
 
 This project evaluates two leading LLMs under three conditions of increasing contextual support, using both human expert evaluation and automated metrics (BLEU, TER). A key research question: **do automated metrics agree with human judgment for short drama dialogue?**
 
-![Dashboard Demo]([dashboard_demo.gif](https://github.com/InYoungee/llm-translation-quality-evaluation/blob/main/images/llm_eval.gif)) 
+![Dashboard Demo](https://github.com/InYoungee/llm-translation-quality-evaluation/blob/main/images/llm_eval.gif)
 ---
 
 ## Dataset
