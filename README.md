@@ -201,3 +201,6 @@ This project is part of a broader portfolio applying Python and ML to localizati
 - [Localization Project Dashboard](https://github.com/InYoungee/2025-localization-dashboard)
 
 → [LinkedIn](https://www.linkedin.com/in/inyoungee/) | [Portfolio](https://inyoungee.github.io/portfolio/)
+
+
+![Show Image](https://github.com/InYoungee/llm-translation-quality-evaluation/blob/main/images/stranger_poster.jpg)
