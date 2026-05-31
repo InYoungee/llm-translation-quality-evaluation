@@ -157,14 +157,14 @@ Through the evaluation process, five key failure patterns were identified:
 
 ```
 ├── llm_eval_dashboard.py      # Streamlit evaluation dashboard
+├── evaluation_rubric_1to5.xlsx # 5-dimension 1-5 scoring rubric
+├── stranger_glossary.xlsx      # 45-entry domain glossary
+├── bleu_ter_summary.xlsx       # Corpus-level BLEU/TER results
 ├── condition_A.py             # API script — baseline (dialogue only, Not open to public)
 ├── condition_B.py             # API script — dialogue + context (Not open to public)
 ├── condition_C.py             # API script — dialogue + context + glossary (Not open to public)
-├── compute_bleu_ter.py        # BLEU and TER computation (Not open to public)
-├── evaluation_rubric_1to5.xlsx # 5-dimension 1-5 scoring rubric
-├── stranger_glossary.xlsx      # 45-entry domain glossary
 ├── scoring_sheet_1to5_result.xlsx # Human evaluation scores (444 rows, Not open to public)
-├── bleu_ter_summary.xlsx       # Corpus-level BLEU/TER results
+├── compute_bleu_ter.py        # BLEU and TER computation (Not open to public)
 └── README.md
 ```
 
