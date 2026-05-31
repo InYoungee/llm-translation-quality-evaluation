@@ -197,4 +197,4 @@ This project is part of a broader portfolio applying Python and ML to localizati
 - [Strategic Translation Capacity Planning — Prophet Forecasting](https://github.com/InYoungee/ml-powered-project-forecasting-resource-palnning)
 - [Localization Project Dashboard](https://github.com/InYoungee/2025-localization-dashboard)
 
-→ [Portfolio](https://www.linkedin.com/in/inyoungee/) | [LinkedIn](https://inyoungee.github.io/portfolio/)
+→ [LinkedIn](https://www.linkedin.com/in/inyoungee/) | [Portfolio](https://inyoungee.github.io/portfolio/)
