@@ -126,7 +126,7 @@ BLEU and TER both rate Condition C as the **worst** condition, while human evalu
 | 45 | 아 저거 선배가 말하는데 저거 | 7.0 | Subject omission, conversational fragment, honorific inference                                                                                                                                         |
 | 18 | 그놈은 우리 법복까지 다 벗겨낼지도 몰라 | 9.3 | Figurative use of 법복 (legal robes = professional standing)                                                                                                                                             |
 | 43 | 원수 꼭 갚겠습니다 | 11.0 | Literally means "repay an enemy/grudge" but actual meaning here is "I will return the favor / repay your kindness" — a playful expression of gratitude that LLMs consistently mistranslate as a threat |
-| 23 | 영 영감님 | 11.7 | 영감님 is a honorific used in Korean legal culture specifically to address prosecutors — meaning "Prosecutor Young" here — not recognized by either model without explicit context                        |
+| 23 | 영 영감님 | 11.7 | 영감님 literally means old-fashioned 'Sir.' for older males. Here, it is a honorific used in Korean legal culture specifically to address prosecutors — meaning "Prosecutor Young" here — not recognized by either model without explicit context                        |
 | 8 | 살인사건 용의자라고요 이름, 주소 빨리 | 12.0 | Terse legal command, subject implied                                                                                                                                                                   |
 
 ---
