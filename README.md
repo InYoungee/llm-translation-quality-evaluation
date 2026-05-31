@@ -193,7 +193,7 @@ Requires `scoring_sheet_1to5_result.xlsx` and `bleu_ter_summary.xlsx` in the sam
 
 ## About
 
-Built by a Localization Project Manager with 6+ years of KO-EN game localization experience, as part of an ongoing exploration of AI/ML evaluation methodology in localization workflows.
+Built by a Localization Project Manager with 6+ years of localization experience, as part of an ongoing exploration of AI/ML evaluation methodology in localization workflows.
 
 This project is part of a broader portfolio applying Python and ML to localization problems:
 - [ML-Powered MT Post-Edit Effort Predictor](https://github.com/InYoungee/ml-powered-mtpe-effort-predictor-game-localization)
